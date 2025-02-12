@@ -1,0 +1,29 @@
+h1 {
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.color1 {
+    color : pink;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.color2 {
+    color : purple;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.color3 {
+    color : green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.color4 {
+    color : yellow;
+}
+
+.color5 {
+    color : red;
+}
